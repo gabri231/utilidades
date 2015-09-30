@@ -7,6 +7,7 @@ public class pruebas {
 		// Un comenario añadido
 		// Otro comentario mas
 		// Tercer comentario
+		// Comentario matador.
 	}
 
 }
