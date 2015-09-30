@@ -6,6 +6,7 @@ public class pruebas {
 		// TODO Auto-generated method stub
 		// Un comenario añadido
 		// Otro comentario mas
+		// Tercer comentario
 	}
 
 }
